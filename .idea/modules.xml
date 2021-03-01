@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/havyou.iml" filepath="$PROJECT_DIR$/.idea/havyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../learn/vue/.idea/vue.iml" filepath="$PROJECT_DIR$/../learn/vue/.idea/vue.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/vue-now-ui-kit-master/.idea/vue-now-ui-kit-master.iml" filepath="$USER_HOME$/Downloads/vue-now-ui-kit-master/.idea/vue-now-ui-kit-master.iml" />
     </modules>
   </component>
 </project>
